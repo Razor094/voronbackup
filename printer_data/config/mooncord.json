@@ -1,0 +1,16 @@
+{
+    "connection": {
+        "moonraker_url": "http://127.0.0.1",
+        "moonraker_token": "",
+        "bot_token": "MTE3Mjk5MzU0OTA3NjI4NzU1MA.GpGAzg.fHwcx3VdiR2-WyrNQFMbG4vhac26dPRsk1GpRA"
+    },
+    "permission": {
+        "controllers": {
+            "users": "1047580382649929748"
+        }
+    },
+    "webcam": {
+        "url": "http://127.0.0.1/webcam/?action=snapshot"
+    },
+    "tmp_path": "/tmp/MoonCord"
+}
